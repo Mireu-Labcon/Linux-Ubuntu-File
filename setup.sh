@@ -25,6 +25,8 @@ sudo apt install pulseaudio pulseeffects --install-recommends
 
 sudo snap install code-insiders --classic
 sudo snap install beekeeper-studio
+sudo snap install space
+sudo snap install pycharm-community --classic
 
 sudo apt-get -y update
 sudo apt-get -y upgrade
