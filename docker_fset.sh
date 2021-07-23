@@ -8,3 +8,5 @@ yum -y install nano
 yum -y install htop
 yum -y install wget
 yum -y install net-tools
+
+echo "fedora or centos set clear"

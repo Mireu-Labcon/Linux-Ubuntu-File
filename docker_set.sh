@@ -9,5 +9,4 @@ apt-get -y install htop
 apt-get -y install wget
 apt-get -y install net-tools
 
-git config --global user.email "alfmalfm1214@gmail.com"
-git config --global user.name "mireu-labcon"
+echo "debian or ubuntu set clear"
