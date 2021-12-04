@@ -1,3 +1,5 @@
+echo "\n=====================================================\n"
+echo "우분투 GITLAB 설치을 진행합니다.\n"
 sudo apt-get update 
 sudo apt-get upgrade
 
@@ -10,3 +12,6 @@ sudo apt-get upgrade
 sudo apt-get autoremove
 
 sudo EXTERNAL_URL="https://gitlab.NULL.NULL" apt-get install gitlab-ce
+
+echo "\n우분투 GITLAB 설치을 완료하였습니다.\n"
+echo "\n=====================================================\n"
