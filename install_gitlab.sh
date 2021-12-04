@@ -9,4 +9,4 @@ sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get autoremove
 
-sudo EXTERNAL_URL="https://gitlab.teamsirius.xyz" apt-get install gitlab-ce
+sudo EXTERNAL_URL="https://gitlab.NULL.NULL" apt-get install gitlab-ce
